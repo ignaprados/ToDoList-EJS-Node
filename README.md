@@ -14,7 +14,7 @@ ToDoList created with EJS Template, Node and Express
  ```
  nodemon start
  ```
- or
+Or you can use instead
  ```
  npm start
  ```

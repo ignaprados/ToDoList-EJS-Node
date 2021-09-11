@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/IgnacioPrados/Newsletter-NodeJS/master/public/images/preview.JPG)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/ToDoList-EJS-Node/master/public/img/preview.JPG)
 # TodoList-EJS-Node
 ToDoList created with EJS Template, Node and Express
 <br><br>

@@ -5,3 +5,13 @@ ToDoList created with EJS Template, Node and Express
  Creator: Ignacio Prados.
  <br><br>
  Key Technologies used: HTML5 - CSS3 - JavaScript - EJS - Node.js - Express.js
+ 
+## Installation
+ ```
+ npm install
+ ```
+ ## Run server
+ ```
+ nodemon start
+ ```
+ 

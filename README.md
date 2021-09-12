@@ -2,9 +2,7 @@
 # TodoList-EJS-Node
 ToDoList created with EJS Template, Node and Express
 <br><br>
- Creator: Ignacio Prados.
- <br><br>
- Key Technologies used: HTML5 - CSS3 - JavaScript - EJS - Node.js - Express.js
+Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
  
  ## Installation
 
@@ -22,4 +20,12 @@ Or you can use instead [npm](https://www.npmjs.com/)
  ```
  npm start
  ```
+
+ ## Key Technologies used
+- HTML5
+- CSS3
+- JavaScript
+- EJS
+- Node.js
+- Express.js
  
